@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sindhupr11
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning Computer Science Engineering from CUSAT
+- 📫 Reach me at my email sindhupr2003@gmail.com
