@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @sindhupr11
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Computer Science Engineering from CUSAT
-- 📫 Reach me at my email sindhupr2003@gmail.com
+<h1 align="center">Hi 👋, I'm Sindhu</h1>
+<h3 align="center">A CSE sophomore from CUSAt</h3>
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 📫 How to reach me **sindhupr2003@gmail.com**
+
