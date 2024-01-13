@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Next.js<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: I first learnt to code in C when I was 12 years old.</p>
+<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning Next.js<br>🎯 Goals: Software Developer.<br>🎲 Fun fact: I first learnt to code in C when I was 12 years old.</p>
 
 ###
 
