@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-I'm Sindhu, a Computer Science Engineering Junior at Cochin University of Science and Technology.
+I'm Sindhu, a Computer Science Engineering Student at Cochin University of Science and Technology. I am an imcoming SDE intern at IBM ISL. Super excited for it.
 
 ## About me
 ✨ Creating bugs since 2021  
